@@ -1,0 +1,4 @@
+baseURL = 'https://game4all.github.io/'
+languageCode = 'en-us'
+title = 'Personal Blog'
+theme = "blowfish"
