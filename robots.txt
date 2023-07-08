@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://game4all.github.io/sitemap.xml
